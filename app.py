@@ -13,6 +13,8 @@ def main():
         else:
             break
 
+    print('Closing program!')
+
 
 if __name__=="__main__":
     main()
